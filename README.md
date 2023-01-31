@@ -4,7 +4,7 @@ This is a Python implementation of
 
 > Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport
 > 
-> *Jianheng Tang , Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li*
+> *Jianheng Tang, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li*
 > 
 > **ICDE 2023**
 
