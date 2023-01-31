@@ -6,7 +6,7 @@ This is a Python implementation of
 > 
 > *Jianheng Tang, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li*
 > 
-> **ICDE 2023**
+> **ICDE 2023**  [Arxiv](https://arxiv.org/abs/2301.12721)
 
 
 Dependencies
@@ -60,4 +60,3 @@ The dataset and LaBSE embedding files can be downloaded from [Google Drive](http
 ```
 python run_DBP15K.py
 ```
-
