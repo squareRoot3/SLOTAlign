@@ -6,7 +6,7 @@ This is a Python implementation of
 > 
 > *Jianheng Tang, Weiqi Zhang, Jiajin Li, Kangfei Zhao, Fugee Tsung, Jia Li*
 > 
-> **ICDE 2023**  [Arxiv](https://arxiv.org/abs/2301.12721)
+> **ICDE 2023**  [Arxiv](https://arxiv.org/abs/2301.12721) [IEEE Library](https://www.computer.org/csdl/proceedings-article/icde/2023/222700b638/1PByqVpGgh2)
 
 
 Dependencies
@@ -59,4 +59,17 @@ Alignment on the DBP15K dataset for knowledge graph entity alignment
 The dataset and LaBSE embedding files can be downloaded from [Google Drive](https://drive.google.com/file/d/1cP6CxVWsqa9ngOM4St1PzFv5NBF_jxBG/view?usp=sharing)
 ```
 python run_DBP15K.py
+```
+
+If you use this package and find it useful, please cite our paper using the following BibTeX. Thanks! :)
+```
+@inproceedings{tang2023robust,
+    author={Tang, Jianheng and Zhang, Weiqi and Li, Jiajin and Zhao, Kangfei and Tsung, Fugee and Li, Jia},
+    booktitle = {2023 IEEE 39th International Conference on Data Engineering (ICDE)},
+    title = {Robust Attributed Graph Alignment via Joint Structure Learning and Optimal Transport},
+    pages = {1638-1651},
+    doi = {10.1109/ICDE55515.2023.00129},
+    url = {https://doi.ieeecomputersociety.org/10.1109/ICDE55515.2023.00129},
+    year={2023}
+}
 ```
